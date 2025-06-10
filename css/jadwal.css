@@ -8,6 +8,10 @@
     position: relative;
 }
 
+.tinggi-border {
+    height: 130px;
+}
+
 .hover-opacity:hover {
     opacity: 0.8;
     transition: 0.3s;
